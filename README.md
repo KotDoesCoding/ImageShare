@@ -4,9 +4,15 @@ TESTED ON MACOS ONLY, MIGHT NOT WORK ON OTHER OPERATING SYSTEMS.
 
 inspired off the way on how the Nintendo Switch sends files to a users smartphone, but ImageShare doesnt require you to join a different network.
 
+-----------------------------------
+
 SWITCH VS IMAGESHARE
 
+-----------------------------------
+
 SWITCH
+
+-----------------------------------
 
 PROS
 
@@ -30,7 +36,11 @@ layout is in a 'white mode'
 
 slightly annoying if your devices camera isnt focusing
 
+-----------------------------------
+
 IMAGESHARE
+
+-----------------------------------
 
 PROS
 
@@ -55,3 +65,5 @@ only videos
 cant change via dark and light mode
 
 nothing special
+
+-----------------------------------
