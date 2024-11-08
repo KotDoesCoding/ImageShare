@@ -7,28 +7,51 @@ inspired off the way on how the Nintendo Switch sends files to a users smartphon
 SWITCH VS IMAGESHARE
 
 SWITCH
+
 PROS
+
 sends files easily
+
 has a clean layout
+
 sends images and videos
+
 nothing special really
+
 CONS
+
 makes the switch disconnect from wifi
+
 uses QR codes
+
 cant change via dark and light mode
+
 layout is in a 'white mode'
+
 slightly annoying if your devices camera isnt focusing
 
 IMAGESHARE
+
 PROS
+
 doesnt require you to disconnect from your current network
+
 simple local ip and port system
+
 doesnt use QR codes
+
 is ALWAYS in 'dark mode'
+
 isnt complicated
+
 easy to modify
+
 meant for sharing videos with family
+
 CONS
+
 only videos
+
 cant change via dark and light mode
+
 nothing special
